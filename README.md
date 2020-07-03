@@ -20,4 +20,5 @@ Setting up the react native frontend (for iOS):
 
 
 Note:
+
 On Screen 2, I just decided to go with the number of photos shown that is the default returned by the Unsplash api - which is 10. If I had a bit more, time, I can make it so it would be however many photos the user has, and add the swiping photo feature for Screen 3.
