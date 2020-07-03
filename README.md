@@ -17,3 +17,7 @@ Setting up the react native frontend (for iOS):
 7. npm start to start metro server at the root directory of react native project
 8. npx react-native run-ios to run the ios app
 9. The app should then load and run
+
+
+Note:
+On Screen 2, I just decided to go with the number of photos shown that is the default returned by the Unsplash api - which is 10. If I had a bit more, time, I can make it so it would be however many photos the user has, and add the swiping photo feature for Screen 3.
